@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/blkTheme/blkown.tmTheme",
+	"color_scheme": "Packages/BLKTheme/BLKColor.tmTheme",
 	"draw_shadows": false,
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -51,7 +51,7 @@
 	"remember_open_files": false,
 	"save_on_focus_lost": true,
 	"tab_size": 2,
-	"theme": "blkown.sublime-theme",
+	"theme": "BLKTheme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,

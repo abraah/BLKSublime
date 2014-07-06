@@ -10,12 +10,18 @@ Make sure you use the right Sublime Text folder. For example, on OS X, packages 
 These are for Sublime Text 3:
 
 #### Mac
-`git clone https://github.com/BLKOWN/blkSublime.git ~/Library/Application\ Support/Sublime\ Text\ 3/`
+
+    $ rm -rf ~/Library/Application \Support/Sublime\ Text\ 3
+    $ git clone https://github.com/BLKOWN/blkSublime.git ~/Library/Application \Support/Sublime\ Text\ 3
 
 #### Linux
-`git clone https://github.com/BLKOWN/blkSublime.git ~/.config/sublime-text-3/`
+
+    $ rm -rf ~/.config/sublime-text-3
+    $ git clone https://github.com/BLKOWN/blkSublime.git ~/.config/sublime-text-3
 
 #### Windows
-`git clone https://github.com/BLKOWN/blkSublime.git %APPDATA%/Sublime\ Text\ 3/`
+
+    $ rmdir /Q /S %APPDATA%/Sublime\ Text\ 3
+    $ git clone https://github.com/BLKOWN/blkSublime.git %APPDATA%/Sublime\ Text\ 3
 
 You may need to [manually install Package Control](https://sublime.wbond.net/installation).

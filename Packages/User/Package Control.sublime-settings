@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"eco",
+		"GitGutter",
+		"Handlebars",
+		"IcedCoffeeScript",
+		"Indent XML",
+		"Pretty JSON",
+		"Ruby Slim",
+		"SCSS",
+		"SublimeERB"
+	]
+}

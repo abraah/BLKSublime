@@ -2,7 +2,7 @@
 
 ## About
 
-Sublime Text Settings & BLKTheme accompanying color scheme for Sublime Text 2 & 3.
+BLKOWN Settings & BLKTheme accompanying color scheme for Sublime Text 2 & 3.
 
 ### Installation
 Make sure you use the right Sublime Text folder. For example, on OS X, packages for version 2 are in `~/Library/Application\ Support/Sublime\ Text\ 2`, while version 3 is labeled `~/Library/Application\ Support/Sublime\ Text\ 3`.

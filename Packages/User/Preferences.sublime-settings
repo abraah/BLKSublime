@@ -48,7 +48,7 @@
 	"line_padding_bottom": 0,
 	"line_padding_top": 0,
 	"preview_on_click": true,
-	"remember_open_files": false,
+	"remember_open_files": true,
 	"save_on_focus_lost": true,
 	"tab_size": 2,
 	"theme": "BLKTheme.sublime-theme",

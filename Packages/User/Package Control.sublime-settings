@@ -3,18 +3,22 @@
 	[
 		"ApacheConf.tmLanguage",
 		"Better CoffeeScript",
+		"CoffeeScriptHaml",
 		"CSS Extended Completions",
 		"eco",
 		"Emmet",
 		"Emmet Css Snippets",
 		"Emmet Style Reflector",
 		"GitGutter",
+		"Haml",
 		"Handlebars",
 		"IcedCoffeeScript",
 		"Indent XML",
 		"INI",
+		"LESS",
 		"Pretty JSON",
 		"Ruby Slim",
+		"Sass",
 		"SCSS",
 		"SublimeERB"
 	]

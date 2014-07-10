@@ -42,8 +42,8 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Pretty JSON"
+		"Pretty JSON",
+		"Vintage"
 	],
 	"line_padding_bottom": 0,
 	"line_padding_top": 0,
@@ -52,7 +52,7 @@
 	"save_on_focus_lost": true,
 	"tab_size": 2,
 	"theme": "BLKTheme.sublime-theme",
-	"translate_tabs_to_spaces": true,
+	"translate_tabs_to_spaces": false,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false,

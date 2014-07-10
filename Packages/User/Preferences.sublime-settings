@@ -52,7 +52,7 @@
 	"save_on_focus_lost": false,
 	"tab_size": 2,
 	"theme": "BLKTheme.sublime-theme",
-	"translate_tabs_to_spaces": false,
+	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false,

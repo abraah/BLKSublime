@@ -1,4 +1,4 @@
-# BLKSublime Settings
+# BLKSublime
 
 Sublime Text Settings & BLKTheme accompanying color scheme for Sublime Text 2 & 3.
 

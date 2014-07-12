@@ -31,6 +31,7 @@
 		".bundle",
 		".yardoc",
 		"coverage",
+		"build",
 		"log",
 		"tmp",
 		"pkg"
